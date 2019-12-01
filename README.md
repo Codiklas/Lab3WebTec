@@ -32,7 +32,7 @@ This repository contains the Lab 3
         2.4 You receive these two values we inserted before
 
         DELETE
-        2.1 Open Postman
-        2.2 Select "DELETE"
-        2.3 DELETE values with sending "localhost:8080/metrics/1" and the values you want to delete
-        2.4 The requested entries get deleted
+        3.1 Open Postman
+        3.2 Select "DELETE"
+        3.3 DELETE values with sending "localhost:8080/metrics/1" and the values you want to delete
+        3.4 The requested entries get deleted
